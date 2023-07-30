@@ -7,8 +7,7 @@ We will keep updating the repository, making it easier to reproduce.
 
 Please note that the paths in code are fixed as 'C:\\Users\\yhu28\\Documents\\Code\\Research\\MultiLoad-GAN_public', make sure to modify the path before trying to run the code.
 
-Download data from https://drive.google.com/drive/folders/1AmavTf2of1zrKtLuYDyLOc7vFJSoe0lP?usp=sharing
-and put it in dataset/newRiver/.
+Download data from https://drive.google.com/drive/folders/1uenITdDWMVU3MTGXlJ-VFnsTMd-Cwncq?usp=sharing
 
 If you have any problem on running the code, feel free to contact the author at _yhu28@ncsu.edu_.
 
