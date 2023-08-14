@@ -1,6 +1,12 @@
 # MultiLoad-GAN_public
 This repository includes the source code of the MultiLoad-GAN paper.
 
+***
+NOTE: 
+
+DUE THE PRIVACY ISSUE, WE ARE NOT ABLE TO SHARE THE ORIGINAL TRAINING DATA RIGHT NOW. CURRENTLY, YOU CAN ONLY RUN THE CODE WITH YOUR OWN DATA. AS SOON AS WE GET THE PERMISSION TO SHARE REAL DATA, WE WILL UPDATE IT.
+***
+
 Hu, Y., Li, Y*., Song, L., Lee, H. P., Rehm, P. J., Makdad, M., … & Lu, N. (2022). MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations. arXiv preprint arXiv:2210.01167.
 
 We will keep updating the repository, making it easier to reproduce.
