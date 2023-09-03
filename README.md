@@ -1,21 +1,25 @@
 # MultiLoad-GAN_public
-This repository includes the source code of the MultiLoad-GAN paper.
+This repository includes the source code of the MultiLoad-GAN paper, a generative model to generate a group of load profiles considering spatial-temporal correlations.
 
 ***
 NOTE: 
 
 DUE THE PRIVACY ISSUE, WE ARE NOT ABLE TO SHARE THE ORIGINAL TRAINING DATA RIGHT NOW. CURRENTLY, YOU CAN ONLY RUN THE CODE WITH YOUR OWN DATA. AS SOON AS WE GET THE PERMISSION TO SHARE REAL DATA, WE WILL UPDATE IT.
-***
-
-Hu, Y., Li, Y*., Song, L., Lee, H. P., Rehm, P. J., Makdad, M., … & Lu, N. (2022). MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations. arXiv preprint arXiv:2210.01167.
 
 We will keep updating the repository, making it easier to reproduce.
 
 Please note that the paths in code are fixed as 'C:\\Users\\yhu28\\Documents\\Code\\Research\\MultiLoad-GAN_public', make sure to modify the path before trying to run the code.
 
 Download data from https://drive.google.com/drive/folders/1uenITdDWMVU3MTGXlJ-VFnsTMd-Cwncq?usp=sharing
+***
 
-If you have any problem on running the code, feel free to contact the author at _yhu28@ncsu.edu_.
+### Citation
+If you use the data or code of this repository, please cite the paper:
+
+Yi Hu, Yiyan Li, Lidong Song, Han Pyo Lee, PJ Rehm, Mattew Makdad, Edmond Miller, and Ning Lu, "MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations," in IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2023.3302192.
+
+### Contact
+Please send your questions and comments to the author at _hugh19flyer@gmial.com_.
 
 ### For a quick try
 You can generate some synthetic data by MultiLoad-GAN or SingleLoad-GAN. We have the trained model in this repository. 
